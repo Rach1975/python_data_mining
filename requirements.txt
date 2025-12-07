@@ -6,4 +6,4 @@ beautifulsoup4
 jupyter
 requests
 matplotlib
-
+openpyxl
